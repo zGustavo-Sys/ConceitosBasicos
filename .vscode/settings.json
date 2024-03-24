@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "cSpell.words": [
+        "idioma",
+        "metodo",
+        "satatic"
+    ],
+    "vscode-pets.petSize": "medium",
+    "vscode-pets.position": "panel",
+    "vscode-pets.throwBallWithMouse": true,
+    "cSpell.language": "pt-br"
+}
